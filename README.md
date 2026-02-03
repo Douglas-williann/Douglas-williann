@@ -9,7 +9,7 @@ Onde mostro meus aprendizados e ensino a criar projetos web.
 
 <p align="left">
 
-<a href="https://github.com/Douglas-williann?tab=followers">
+<a href="https://github.com/Douglas-william?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
